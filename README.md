@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> 
 
-<p align="center">I ❤️ solve great challenges using tech.</p>&nbsp;
+<p align="center">I solve great challenges using tech.</p>&nbsp;
 
 ## My Skills
 
